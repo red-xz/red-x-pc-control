@@ -1,0 +1,5 @@
+{
+  "host": "100.x.x.x",
+  "port": 8765,
+  "token": "PASTE_TOKEN_HERE"
+}
